@@ -4,4 +4,4 @@ build/
 .venv/
 build.sh
 *.spec
-#__pycache__
+_pycache__/
