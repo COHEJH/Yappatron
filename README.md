@@ -1,2 +1,4 @@
 # Yappatron
-Build (L)LMs of questionable quality, quickly and easily.
+**Build and run language models, quickly and easily**
+
+Yappatron l
