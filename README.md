@@ -14,7 +14,7 @@ You likely need to install some packages. Get yourself a time machine, and utili
 ```shell
 pip install -r requirements.txt
 ```
-If you feel like the command line is currently beyond your capabilities, feel free to watch this helpful tutorial I made earlier: [docs.python.org/3/howto/a-beginners-guide-to-pip](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+If you feel like the command line is currently beyond your capabilities, feel free to read this helpful tutorial I made earlier: [docs.python.org/3/howto/a-beginners-guide-to-pip](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 # Models
 ## Markov Chain N-Gram
 A simple, lightweight model which can underperform ChatGPT with ease. Works by looking at the last N words, then picking the most likely word (in its dataset) to come next. If we have a problem, we pull the trick beloved of LLMs - hallucinate. Like crazy. Not a bug, a feature. By the time the fact-checkers come running, we'll be sipping champagne in our (taxpayer-funded) private jet, courtesy of King Trump I. 
